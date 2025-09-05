@@ -1,7 +1,9 @@
-# Generative AI Data Architecture Project
+# Generative AI Data Architecture
 
 ## Overview
 This repository contains a project demonstrating the **full data lifecycle** for the Online Retail dataset, including extraction, transformation, loading (ETL), data warehouse design, and analysis. The goal is to create a reusable workflow for handling raw retail data and enabling business intelligence.
+
+<img width="822" height="596" alt="generative-ai-data-architecture" src="https://github.com/user-attachments/assets/5a94fba6-e04f-429f-8f5c-408010dec810" />
 
 The **dataset** used is publicly available under the **CC BY 4.0 license**. No proprietary data was used.
 
